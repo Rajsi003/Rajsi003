@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajsi003
-- 👀 I’m interested in WebDev, LLM
+- 👀 I’m interested in WebDev, LLMs
 - 🌱 I’m currently learning DSA, ML
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
